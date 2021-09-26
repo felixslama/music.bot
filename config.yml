@@ -1,5 +1,5 @@
 main:
-    discord_token: "ODc0NzI4ODI1MTY1MDYyMTk0.YRLMsw.tXKUf5DWO_ZdnDaaNnRdrXYvSQc"
+    discord_token: "BOT-TOKEN"
 messages:
     notInVoice: "You need to be in a voice channel to use me!"
     alreadyInUse: "I am already in use!"
