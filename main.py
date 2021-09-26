@@ -14,5 +14,7 @@ async def setup():
     await client.wait_until_ready() 
     client.add_cog(newmusic(client))
 
+
+
 client.loop.create_task(setup())
 client.run("ODc0NzI4ODI1MTY1MDYyMTk0.YRLMsw.tXKUf5DWO_ZdnDaaNnRdrXYvSQc")
