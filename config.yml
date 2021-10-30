@@ -1,0 +1,16 @@
+main:
+    discord_token: "DISCORD_TOKEN"
+messages:
+    notInVoice: "You need to be in a voice channel to use me!"
+    alreadyInUse: "I am already in use!"
+    noLink: "I need a youtube-link to play stuff"
+    searchNoResult: "Sorry, nothing found"
+    addedToQueue: "Song added! {queue_len} songs in queue"
+    queueIsFull: "Queue is Full!"
+    nowPlaying: "Now playing {song}"
+    skip: "skipped >>"
+    paused: "paused playback"
+    resumed: "resumed playback"
+    infoMsg: "super nice discord bot"
+    clear: "cleared queue and stopped playback"
+    stop: "cleared queue and stopped playback"
